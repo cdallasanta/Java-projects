@@ -1,17 +1,18 @@
 # Java-projects
-This is a series of projects found on this link or through "Automate the Boring Stuff with Python" by Al Sweigart in order to practice my python scripting.
+This is a series of projects found on <a href"https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit">this link</a> or through "Automate the Boring Stuff with Python" by Al Sweigart in order to practice my java scripting.
 
 Here are the porjects in this repository so far:
 
 Bottles.java - 99 Bottles of Beer on the Wall Lyrics
 -Learning ifs and System.out.println
 
-
-#(not yet in repository)
-magic ball.py - Magic 8 Ball. Type in a question, it will give an answer
+Magic8Ball.java - Magic 8 Ball. Type in a question, it will give an answer
 -Answers are in a list that are easy to add to
+-uses random numbers, lists, and a somewhat arbitrary scanner object
 -Will add a GUI once I learn about those modules
 
+
+#(not yet in repository, copied from the python folder where I'm working on the same projects)
 collatz.py - Input a number and it uses the Collatz Conjecture until the number reaches 1
 -Practicing for loops, defining functions, and handling errors
 
