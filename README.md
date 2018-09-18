@@ -1,5 +1,5 @@
 # Java-projects
-This is a series of projects found on <a href"https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit">this link</a> or through "Automate the Boring Stuff with Python" by Al Sweigart in order to practice my java scripting.
+This is a series of projects found on [this link](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit") or through "Automate the Boring Stuff with Python" by Al Sweigart in order to practice my java scripting.
 
 Here are the porjects in this repository so far:
 
